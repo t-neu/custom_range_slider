@@ -2,7 +2,7 @@
 
 Custom Range Slider
 
-![alt text](https://raw.github.com/t-neu/custom_range_slider/blob/master/slider_range.jpg)
+![alt text](https://github.com/t-neu/custom_range_slider/blob/master/slider_range.jpg?raw=true)
 
 ## Getting Started
 
